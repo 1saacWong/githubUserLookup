@@ -1,0 +1,28 @@
+{
+  "name": "githubuserlookup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1saacWong/githubUserLookup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1saacWong/githubUserLookup/issues"
+  },
+  "homepage": "https://github.com/1saacWong/githubUserLookup#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "browserify": "^14.1.0",
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-uglify": "^2.0.1",
+    "jshint": "^2.9.4",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}

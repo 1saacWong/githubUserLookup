@@ -1,0 +1,22 @@
+{
+  "name": "githubuserlookup",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Isaac Wong <isaacwongbusiness@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/1saacWong/githubUserLookup",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7",
+    "moment": "^2.17.1"
+  }
+}
